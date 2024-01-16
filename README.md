@@ -1,1 +1,1 @@
-# SUN_halpha_histset1
+Code and Histograms of the first set of images
